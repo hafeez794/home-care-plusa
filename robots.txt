@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://enchanting-puffpuff-84f01d.netlify.app/sitemap.xml
+Sitemap: https://hafeez794.github.io/home-care-plusa/sitemap.xml
