@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enchanting-puffpuff-84f01d.netlify.app/sitemap.xml

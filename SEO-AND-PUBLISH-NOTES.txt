@@ -1,0 +1,14 @@
+HOME CARE PLUSA — UPDATE NOTES
+
+Changes made:
+- Added improved SEO title and meta description.
+- Added canonical URL, robots indexing directive and social sharing metadata.
+- Added robots.txt and sitemap.xml.
+- Set the booking form WhatsApp number to 923155627665.
+- Added a floating WhatsApp contact shortcut.
+
+Google Search Console verification:
+Google Search Console HTML verification tag has been added inside the <head> section of index.html using the actual token supplied by the site owner. Keep this tag in place after verification.
+
+Publish:
+Extract this ZIP and upload the contents of the Home_Care_Plusa_Website folder (index.html, style.css, script.js, robots.txt, sitemap.xml) to Netlify as a new manual deploy.
