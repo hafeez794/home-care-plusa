@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://hafeez794.github.io/home-care-plusa/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://hafeez794.github.io/home-care-plusa/home-nursing.html</loc>
-  </url>
-
-  <url>
-    <loc>https://hafeez794.github.io/home-care-plusa/injections-at-home.html</loc>
-  </url>
-
-  <url>
-    <loc>https://hafeez794.github.io/home-care-plusa/wound-dressing-at-home.html</loc>
-  </url>
-
-  <url>
-    <loc>https://hafeez794.github.io/home-care-plusa/iv-drip-at-home.html</loc>
-  </url>
-
-  <url>
-    <loc>https://hafeez794.github.io/home-care-plusa/blood-sample-collection-at-home.html</loc>
-  </url>
-
-  <url>
-    <loc>https://hafeez794.github.io/home-care-plusa/elderly-patient-care.html</loc>
-  </url>
-
+  <url><loc>https://hafeez794.github.io/home-care-plusa/</loc></url>
+  <url><loc>https://hafeez794.github.io/home-care-plusa/home-nursing.html</loc></url>
+  <url><loc>https://hafeez794.github.io/home-care-plusa/injections-at-home.html</loc></url>
+  <url><loc>https://hafeez794.github.io/home-care-plusa/wound-dressing-at-home.html</loc></url>
+  <url><loc>https://hafeez794.github.io/home-care-plusa/iv-drip-at-home.html</loc></url>
+  <url><loc>https://hafeez794.github.io/home-care-plusa/blood-sample-collection-at-home.html</loc></url>
+  <url><loc>https://hafeez794.github.io/home-care-plusa/elderly-patient-care.html</loc></url>
 </urlset>
