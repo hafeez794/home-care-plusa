@@ -21,4 +21,24 @@
   text-decoration: none;
   box-shadow: 0 8px 24px rgba(0,0,0,.18);
 }
-.whatsapp-float:hover { filter: brightness(.95); 
+.whatsapp-float:hover { filter: brightness(.95); }
+/* Google Review Button */
+.google-review-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 11px 16px;
+  background: #ffffff;
+  color: #0b8172 !important;
+  border: 1px solid #8dd5bb;
+  border-radius: 7px;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: .2s ease;
+}
+
+.google-review-link:hover {
+  background: #e5f5ed;
+  transform: translateY(-2px);
+}
